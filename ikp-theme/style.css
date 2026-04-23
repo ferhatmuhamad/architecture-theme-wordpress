@@ -1,0 +1,19 @@
+/*
+Theme Name: IKP - Istimewa Karya Presisi
+Theme URI: https://ikp.co.id
+Author: ferhatmuhamad
+Description: Custom WordPress theme untuk CV. Istimewa Karya Presisi - General Supplier, Architecture and Kontraktor di Yogyakarta.
+Version: 1.0.0
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ikp-theme
+*/
+
+/* ============================================================
+   CSS Custom Properties — Brand Colors IKP
+   ============================================================ */
+:root {
+	--color-primary:   #336FA2;
+	--color-secondary: #CC191A;
+	--color-tertiary:  #6B982F;
+}
